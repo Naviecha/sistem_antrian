@@ -1,0 +1,48 @@
+#nomor_antrian {
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#ambil_nomor {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -70px;
+}
+
+#nomor_sekarang {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.booking {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: -1000px;
+}
+
+.bg {
+    background: #eee;
+}
+
+.row-table {
+    display: table;
+    table-layout: fixed;
+    width: 80%;
+    height: 80%;
+}
+
+.col-table {
+    display: table-cell;
+    float: none;
+    height: 50%;
+}
+
+.col-content {
+    height: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
